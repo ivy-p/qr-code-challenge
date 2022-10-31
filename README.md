@@ -23,8 +23,8 @@ My first Front-end Mentor project. The goal was to recreate the design files pro
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/mobilefirst-design-with-flexbox-RAko-AnbP9)
-- Live Site URL: [](https://ivy-p.github.io/qr-code-challenge/)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobilefirst-design-with-flexbox-RAko-AnbP9](https://www.frontendmentor.io/solutions/mobilefirst-design-with-flexbox-RAko-AnbP9)
+- Live Site URL: [https://ivy-p.github.io/qr-code-challenge/](https://ivy-p.github.io/qr-code-challenge/)
 
 ## My process
 I designed this mobile-first in CSS, which made changes to the desktop version fairly simple. I opted to use Flexbox as it's what I'm most familiar with.
